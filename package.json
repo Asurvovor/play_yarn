@@ -1,0 +1,13 @@
+{
+  "name": "play_yarn",
+  "version": "1.0.0",
+  "description": "play yarn for fun",
+  "main": "main.js",
+  "repository": "https://github.com/Asurvovor/play_yarn",
+  "author": "zhangjiliang",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "react": "^16.6.3"
+  }
+}
